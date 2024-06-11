@@ -16,4 +16,5 @@ console.log(maxNum);
 // Reduce method 
 const arr2 = [90,39,343,22,55,98];
 let maxVal = arr2.reduce((max,current)=> current > max ? current : max);
-console.log(maxVal);
+console.log(maxVal); 
+
